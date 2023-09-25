@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules
+
+# Production Build
+/dist
+
+# IDE and Editor folders/files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
